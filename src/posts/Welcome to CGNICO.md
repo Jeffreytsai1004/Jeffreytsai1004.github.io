@@ -1,19 +1,11 @@
 ---
 icon: pen-to-square
-date: 2022-01-11
+date: 2022-03-11
 category:
   - Home
 tag:
-  - 红
-  - 小
+  - 主页
+star: true
 ---
 
-# 草莓
-
-## 标题 2
-
-这里是内容。
-
-### 标题 3
-
-这里是内容。
+# Welcome To CGNICO Blog!
