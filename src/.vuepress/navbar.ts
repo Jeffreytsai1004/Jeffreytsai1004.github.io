@@ -14,8 +14,8 @@ export default navbar([
         icon: "pen-to-square",
         prefix: "UnrealEngine/",
         children: [
-          { text: "UnrealGameSync 部署", icon: "pen-to-square", link: "1" },
-          { text: "UnrealGameSync MySQL部署", icon: "pen-to-square", link: "2" },
+          { text: "UnrealGameSync 部署", icon: "pen-to-square", link: "0001" },
+          { text: "UnrealGameSync MySQL部署", icon: "pen-to-square", link: "0002" },
         ],
       },
     ],
