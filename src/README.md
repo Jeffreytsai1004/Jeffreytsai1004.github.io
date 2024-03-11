@@ -2,7 +2,7 @@
 home: true
 layout: BlogHome
 icon: home
-title: CGNICO Blog
+title: CGNICO
 heroImage: https://jeffreytsai1004.github.io/logo.svg
 heroText: CGNICO Blog
 heroFullScreen: true
