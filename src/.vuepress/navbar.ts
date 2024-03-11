@@ -3,12 +3,12 @@ import { navbar } from "vuepress-theme-hope";
 export default navbar([
   "/",
   {
-    text: "博文",
+    text: "Blog",
     icon: "pen-to-square",
     prefix: "/posts/",
     children: [
       {
-        text: "虚幻引擎",
+        text: "UnrealEngine",
         icon: "pen-to-square",
         prefix: "UnrealEngine/",
         children: [
@@ -18,6 +18,5 @@ export default navbar([
       },
     ],
   },
-  "/demo/",
   { text: "CGNICO 论坛", icon: "book", link: "https://disc.cgnico.com/",},
 ]);

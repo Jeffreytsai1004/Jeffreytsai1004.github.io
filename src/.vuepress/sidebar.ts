@@ -5,13 +5,12 @@ export default sidebar({
     "",
     "intro",
     {
-      text: "文章",
+      text: "Blog",
       icon: "book",
       prefix: "posts/",
       children: [
-        "Welcome to CGNICO",
         {
-          text: "虚幻引擎",
+          text: "UnrealEngine",
           icon: "pen-to-square",
           prefix: "UnrealEngine/",
           children: [
@@ -25,13 +24,6 @@ export default sidebar({
       text: "幻灯片",
       icon: "person-chalkboard",
       link: "https://plugin-md-enhance.vuejs.press/zh/guide/content/revealjs/demo.html",
-    },
-    {
-      text: "使用指南",
-      icon: "laptop-code",
-      prefix: "demo/",
-      link: "demo/",
-      children: "structure",
     },
   ],
 });

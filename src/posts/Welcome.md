@@ -8,4 +8,6 @@ tag:
 star: true
 ---
 
-# Welcome To CGNICO Blog!
+# Welcome !
+
+Welcome To CGNICO Blog!
