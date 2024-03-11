@@ -3,7 +3,7 @@ home: true
 layout: BlogHome
 icon: home
 title: CGNICO Blog
-heroImage: https://raw.githubusercontent.com/Jeffreytsai1004/Jeffreytsai1004.github.io/gh-pages/assets/images/default.jpg
+heroImage: https://jeffreytsai1004.github.io/logo.svg
 heroText: CGNICO Blog
 heroFullScreen: true
 tagline: 欢迎来到 CGNICO Blog !
