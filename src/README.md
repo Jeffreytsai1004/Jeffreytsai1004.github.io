@@ -3,7 +3,7 @@ home: true
 layout: BlogHome
 icon: home
 title: CGNICO Blog
-heroImage: /assets/images/default.jpg
+heroImage: [default](./vuepress/public/images/default.jpg)
 heroText: CGNICO Blog
 heroFullScreen: true
 tagline: 欢迎来到 CGNICO Blog !
