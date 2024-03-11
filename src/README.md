@@ -5,7 +5,7 @@ icon: home
 title: CGNICO Blog
 heroImage: https://raw.githubusercontent.com/Jeffreytsai1004/Jeffreytsai1004.github.io/gh-pages/assets/images/default.jpg
 heroText: CGNICO Blog
-heroFullScreen: false
+heroFullScreen: true
 tagline: 欢迎来到 CGNICO Blog !
 projects:
   - icon: project
