@@ -2,7 +2,6 @@ import { navbar } from "vuepress-theme-hope";
 
 export default navbar([
   "/",
-  "/demo/",
   {
     text: "博文",
     icon: "pen-to-square",
@@ -20,5 +19,6 @@ export default navbar([
       },
     ],
   },
+  "/demo/",
   { text: "CGNICO 论坛", icon: "book", link: "https://disc.cgnico.com/",},
 ]);
