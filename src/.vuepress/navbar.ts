@@ -7,7 +7,6 @@ export default navbar([
     icon: "pen-to-square",
     prefix: "/posts/",
     children: [
-      "Welcome to CGNICO",
       {
         text: "虚幻引擎",
         icon: "pen-to-square",
