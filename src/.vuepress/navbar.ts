@@ -2,8 +2,7 @@ import { navbar } from "vuepress-theme-hope";
 
 export default navbar([
   "/",
-  {
-    text: "Blog",
+  { text: "博客",
     icon: "pen-to-square",
     prefix: "/posts/",
     children: [
@@ -20,5 +19,6 @@ export default navbar([
       },
     ],
   },
-  { text: "CGNICO 论坛", icon: "book", link: "https://disc.cgnico.com/",},
+  { text: "论坛", icon: "book", link: "https://disc.cgnico.com/",},
+  "/demo/",
 ]);

@@ -5,7 +5,7 @@ export default sidebar({
     "",
     "intro",
     {
-      text: "Blog",
+      text: "博客",
       icon: "book",
       prefix: "posts/",
       children: [
@@ -22,10 +22,8 @@ export default sidebar({
         },
       ],
     },
-    {
-      text: "幻灯片",
-      icon: "person-chalkboard",
-      link: "https://plugin-md-enhance.vuejs.press/zh/guide/content/revealjs/demo.html",
-    },
+    { text: "论坛", icon: "book", link: "https://disc.cgnico.com/",},
+    { text: "幻灯片", icon: "person-chalkboard", link: "https://plugin-md-enhance.vuejs.press/zh/guide/content/revealjs/demo.html",},
+    "/demo/",
   ],
 });
