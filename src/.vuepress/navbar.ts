@@ -15,6 +15,7 @@ export default navbar([
           { text: "UGS Build & Publish 5.3.2", icon: "pen-to-square", link: "0002" },
           { text: "UGS MySQL Deployment", icon: "pen-to-square", link: "0003" },
           { text: "UGS MetadataServer .NET Core", icon: "pen-to-square", link: "0004" },
+          { text: "Metahuman 基数设置", icon: "pen-to-square", link: "0005" },
         ],
       },
     ],
