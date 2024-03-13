@@ -22,6 +22,14 @@ export default sidebar({
           ],
         },
         {
+          text: "MetaHuman",
+          icon: "pen-to-square",
+          prefix: "MetaHuman/",
+          children: [
+            { text: "Metahuman 基数设置", icon: "pen-to-square", link: "0001" },
+          ],
+        },
+        {
           text: "UEFN",
           icon: "pen-to-square",
           prefix: "UEFN/",
