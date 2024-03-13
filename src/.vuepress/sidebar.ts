@@ -21,6 +21,15 @@ export default sidebar({
             { text: "Metahuman 基数设置", icon: "pen-to-square", link: "0005" },
           ],
         },
+        {
+          text: "UEFN",
+          icon: "pen-to-square",
+          prefix: "UEFN/",
+          children: [
+            { text: "虚幻编辑器《堡垒之夜》文档", icon: "pen-to-square", link: "0001" },
+            { text: "《堡垒之夜》虚幻编辑器的新功能" , icon: "pen-to-square", link: "0002" },
+          ],
+        },
       ],
     },
     { text: "论坛", icon: "book", link: "https://disc.cgnico.com/",},
