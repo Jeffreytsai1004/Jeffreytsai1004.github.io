@@ -8,30 +8,22 @@ export default navbar([
     children: [
       {
         text: "UnrealEngine",
-        icon: "unrealengine",
+        icon: "pen-to-square",
         prefix: "UnrealEngine/",
         children: [
-          { text: "UGS Build & Publish 4.27", icon: "unreal-engine", link: "0001" },
-          { text: "UGS Build & Publish 5.3.2", icon: "unreal-engine", link: "0002" },
-          { text: "UGS MySQL Deployment", icon: "unreal-engine", link: "0003" },
-          { text: "UGS MetadataServer .NET Core", icon: "unrealengine", link: "0004" },
+          { text: "MetaHuman", link: "MetaHuman/" },
+          { text: "UEFN", link: "UEFN/" },
+          { text: "UnrealGameSync", link: "UnrealGameSync/" },
+          { text: "HoudiniEngine", link: "HoudiniEngine/" },
         ],
       },
       {
-        text: "MetaHuman",
-        icon: "unrealengine",
-        prefix: "MetaHuman/",
+        text: "Linux",
+        icon: "pen-to-square",
+        prefix: "Linux/",
         children: [
-          { text: "Metahuman 基数设置", icon: "unreal-engine", link: "0001" },
-        ],
-      },
-      {
-        text: "UEFN",
-        icon: "brand-fortnite",
-        prefix: "UEFN/",
-        children: [
-          { text: "虚幻编辑器《堡垒之夜》文档", icon: "fortnite", link: "0001" },
-          { text: "《堡垒之夜》虚幻编辑器的新功能" , icon: "fortnite", link: "0002" },
+          { text: "Ubuntu", link: "Ubuntu/" },
+          { text: "Docker", link: "Docker/" },
         ],
       },
     ],
