@@ -61,7 +61,7 @@ export default sidebar({
               icon: "pen-to-square",
               prefix: "Vuepress/",
               children: [
-                { text: "Vuepress", icon: "pen-to-square", link: "0001" },
+                { text: "Environment Deployment", icon: "pen-to-square", link: "0001" },
               ],
             },
           ],
