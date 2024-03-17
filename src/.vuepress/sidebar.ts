@@ -51,6 +51,21 @@ export default sidebar({
             },
           ],
         },
+        {
+          text: "WebSiteDeploy",
+          icon: "pen-to-square",
+          prefix: "WebSiteDeploy/",
+          children: [
+            {
+              text: "Vuepress",
+              icon: "pen-to-square",
+              prefix: "Vuepress/",
+              children: [
+                { text: "Vuepress", icon: "pen-to-square", link: "0001" },
+              ],
+            },
+          ],
+        },
       ],
     },
     { text: "论坛", icon: "book", link: "https://disc.cgnico.com/",},

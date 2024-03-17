@@ -26,6 +26,14 @@ export default navbar([
           { text: "Docker", link: "Docker/" },
         ],
       },
+      {
+        text: "WebSiteDeploy",
+        icon: "pen-to-square",
+        prefix: "WebSiteDeploy/",
+        children: [
+          { text: "Vuepress", link: "Vuepress/" },
+        ],
+      },
     ],
   },
   { text: "论坛", icon: "book", link: "https://disc.cgnico.com/",},
