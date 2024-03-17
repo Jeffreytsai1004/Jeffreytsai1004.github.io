@@ -43,6 +43,14 @@ export default sidebar({
               ],
             },
             {
+              text: "SourceEngine",
+              icon: "pen-to-square",
+              prefix: "SourceEngine/",
+              children: [
+                { text: "SourceEngine Build SetUp", icon: "pen-to-square", link: "0001" },
+              ],
+            },
+            {
               text: "HoudiniEngine",
               icon: "pen-to-square",
               prefix: "HoudiniEngine/",

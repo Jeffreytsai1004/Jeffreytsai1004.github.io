@@ -15,6 +15,7 @@ export default navbar([
           { text: "UEFN", link: "UEFN/" },
           { text: "UnrealGameSync", link: "UnrealGameSync/" },
           { text: "HoudiniEngine", link: "HoudiniEngine/" },
+          { text: "SourceEngine", link: "SourceEngine/" },
         ],
       },
       {
