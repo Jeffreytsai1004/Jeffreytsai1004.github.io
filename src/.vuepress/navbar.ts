@@ -11,17 +11,10 @@ export default navbar([
         icon: "pen-to-square",
         prefix: "UnrealEngine/",
         children: [
-          { text: "UnrealGameSync", link: "UnrealGameSync/" }
+          { text: "UnrealGameSync", link: "UnrealGameSync/" },
+          { text: "MetaHuman-DNA-Calibration", link: "MetaHuman-DNA-Calibration/" }
         ],
-      },
-      {
-        text: "WebSiteDeploy",
-        icon: "pen-to-square",
-        prefix: "WebSiteDeploy/",
-        children: [
-          { text: "Vuepress", link: "Vuepress/" },
-        ],
-      },
+      }
     ],
   },
   { text: "论坛", icon: "book", link: "https://disc.cgnico.com/",},

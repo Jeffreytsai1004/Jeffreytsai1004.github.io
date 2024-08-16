@@ -24,30 +24,16 @@ export default sidebar({
                 { text: "UGS MySQL", icon: "pen-to-square", link: "0003" },
                 { text: "UGS MetadataServer", icon: "pen-to-square", link: "0004" },
               ],
+            },
+            {
+              text: "MetaHuman-DNA-Calibration",
+              icon: "pen-to-square",
+              prefix: "MetaHuman-DNA-Calibration/",
+              children: [
+              ],
             }
           ],
-        },
-        {
-          text: "WebSiteDeploy",
-          icon: "pen-to-square",
-          prefix: "WebSiteDeploy/",
-          children: [
-            {
-              text: "Vuepress",
-              icon: "pen-to-square",
-              prefix: "Vuepress/",
-              children: [
-                { text: "运行环境设置", icon: "pen-to-square", link: "0001" },
-                { text: "创建项目", icon: "pen-to-square", link: "0002" },
-                { text: "项目命令", icon: "pen-to-square", link: "0003" },
-                { text: "项目内容", icon: "pen-to-square", link: "0004" },
-                { text: "配置项目", icon: "pen-to-square", link: "0005" },
-                { text: "项目结构", icon: "pen-to-square", link: "0006" },
-                { text: "部署项目", icon: "pen-to-square", link: "0007" },
-              ],
-            },
-          ],
-        },
+        }
       ],
     },
     { text: "论坛", icon: "book", link: "https://disc.cgnico.com/",},
