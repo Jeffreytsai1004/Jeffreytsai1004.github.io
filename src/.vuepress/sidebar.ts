@@ -15,14 +15,6 @@ export default sidebar({
           prefix: "UnrealEngine/",
           children: [
             {
-              text: "MetaHuman",
-              icon: "pen-to-square",
-              prefix: "MetaHuman/",
-              children: [
-                { text: "基础设置", icon: "pen-to-square", link: "0001" },
-              ],
-            },
-            {
               text: "UnrealGameSync",
               icon: "pen-to-square",
               prefix: "UnrealGameSync/",
@@ -32,31 +24,7 @@ export default sidebar({
                 { text: "UGS MySQL", icon: "pen-to-square", link: "0003" },
                 { text: "UGS MetadataServer", icon: "pen-to-square", link: "0004" },
               ],
-            },
-            {
-              text: "UEFN",
-              icon: "pen-to-square",
-              prefix: "UEFN/",
-              children: [
-                { text: "UEFN 文档", icon: "pen-to-square", link: "0001" },
-                { text: "UEFN 新功能", icon: "pen-to-square", link: "0002" },
-              ],
-            },
-            {
-              text: "SourceEngine",
-              icon: "pen-to-square",
-              prefix: "SourceEngine/",
-              children: [
-                { text: "SourceEngine Build SetUp", icon: "pen-to-square", link: "0001" },
-              ],
-            },
-            {
-              text: "HoudiniEngine",
-              icon: "pen-to-square",
-              prefix: "HoudiniEngine/",
-              children: [
-              ],
-            },
+            }
           ],
         },
         {

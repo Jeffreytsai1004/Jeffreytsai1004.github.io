@@ -11,20 +11,7 @@ export default navbar([
         icon: "pen-to-square",
         prefix: "UnrealEngine/",
         children: [
-          { text: "MetaHuman", link: "MetaHuman/" },
-          { text: "UEFN", link: "UEFN/" },
-          { text: "UnrealGameSync", link: "UnrealGameSync/" },
-          { text: "HoudiniEngine", link: "HoudiniEngine/" },
-          { text: "SourceEngine", link: "SourceEngine/" },
-        ],
-      },
-      {
-        text: "Linux",
-        icon: "pen-to-square",
-        prefix: "Linux/",
-        children: [
-          { text: "Ubuntu", link: "Ubuntu/" },
-          { text: "Docker", link: "Docker/" },
+          { text: "UnrealGameSync", link: "UnrealGameSync/" }
         ],
       },
       {
